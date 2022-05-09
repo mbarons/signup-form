@@ -1,6 +1,11 @@
+body{
+  margin: 0px;
+  padding: 0;
+   }
+
 .main-container {
   display: flex;
-  height: 98vh;
+  height: 100vh;
   font-family: 'Work Sans', sans-serif;
 }
 
